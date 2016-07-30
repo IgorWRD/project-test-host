@@ -1,2 +1,2 @@
-# GitHub test repository
+# GitHub test repositories
  test project deploy
